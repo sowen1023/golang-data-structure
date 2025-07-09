@@ -1,9 +1,9 @@
 package mst
 
 import (
-	"io.vava.datastructure/graph"
-	"io.vava.datastructure/graph/dfs"
-	"io.vava.datastructure/tree"
+	"io.github.sowen.datastructure/graph"
+	"io.github.sowen.datastructure/graph/dfs"
+	"io.github.sowen.datastructure/tree"
 	"sort"
 )
 

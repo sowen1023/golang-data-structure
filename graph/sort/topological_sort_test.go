@@ -3,7 +3,7 @@ package sort
 import (
 	"testing"
 
-	"io.vava.datastructure/graph"
+	"io.github.sowen.datastructure/graph"
 )
 
 func TestTopoSort(t *testing.T) {

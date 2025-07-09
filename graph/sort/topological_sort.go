@@ -1,6 +1,6 @@
 package sort
 
-import "io.vava.datastructure/graph"
+import "io.github.sowen.datastructure/graph"
 
 // TopoSort - 返回拓扑排序结果 & 是否有环
 func TopoSort(g graph.Graph) ([]int, bool) {

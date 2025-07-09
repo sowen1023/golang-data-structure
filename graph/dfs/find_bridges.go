@@ -1,7 +1,7 @@
 package dfs
 
 import (
-	"io.vava.datastructure/graph"
+	"io.github.sowen.datastructure/graph"
 )
 
 type FindBridges struct {

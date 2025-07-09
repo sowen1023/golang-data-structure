@@ -1,8 +1,8 @@
 package radix
 
 import (
-	"io.vava.datastructure/sort"
-	"io.vava.datastructure/util"
+	"io.github.sowen.datastructure/sort"
+	"io.github.sowen.datastructure/util"
 	"testing"
 )
 

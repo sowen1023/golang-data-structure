@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"io.vava.datastructure/tree"
+	"io.github.sowen.datastructure/tree"
 )
 
 type SymbolGraph struct {

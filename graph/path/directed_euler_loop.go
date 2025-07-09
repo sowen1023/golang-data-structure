@@ -1,9 +1,9 @@
 package path
 
 import (
-	"io.vava.datastructure/graph"
-	"io.vava.datastructure/graph/dfs"
-	"io.vava.datastructure/stack"
+	"io.github.sowen.datastructure/graph"
+	"io.github.sowen.datastructure/graph/dfs"
+	"io.github.sowen.datastructure/stack"
 )
 
 // EulerLoop - 欧拉回路

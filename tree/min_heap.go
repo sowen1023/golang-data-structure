@@ -3,8 +3,8 @@ package tree
 import (
 	"errors"
 
-	"io.vava.datastructure/list"
-	"io.vava.datastructure/types"
+	"io.github.sowen.datastructure/list"
+	"io.github.sowen.datastructure/types"
 )
 
 type MinHeap[E types.Comparable] struct {

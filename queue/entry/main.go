@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"io.vava.datastructure/queue"
+	"io.github.sowen.datastructure/queue"
 )
 
 func main() {

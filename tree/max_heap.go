@@ -3,9 +3,9 @@ package tree
 import (
 	"errors"
 
-	"io.vava.datastructure/types"
+	"io.github.sowen.datastructure/types"
 
-	"io.vava.datastructure/list"
+	"io.github.sowen.datastructure/list"
 )
 
 type MaxHeap[E types.Comparable] struct {

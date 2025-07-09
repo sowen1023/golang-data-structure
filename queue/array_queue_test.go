@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"io.vava.datastructure/queue"
+	"io.github.sowen.datastructure/queue"
 )
 
 func TestArrayQueue_Enqueue(t *testing.T) {

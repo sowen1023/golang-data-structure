@@ -1,7 +1,7 @@
 package sort
 
 import (
-	"io.vava.datastructure/util"
+	"io.github.sowen.datastructure/util"
 	"math"
 )
 

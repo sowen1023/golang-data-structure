@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"io.vava.datastructure/util"
+	"io.github.sowen.datastructure/util"
 )
 
 func KMP(s, t string) int {

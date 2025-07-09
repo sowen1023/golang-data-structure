@@ -3,7 +3,7 @@ package dfs
 import (
 	"testing"
 
-	"io.vava.datastructure/graph"
+	"io.github.sowen.datastructure/graph"
 )
 
 func TestFindBridges(t *testing.T) {

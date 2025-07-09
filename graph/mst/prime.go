@@ -1,9 +1,9 @@
 package mst
 
 import (
-	"io.vava.datastructure/graph"
-	"io.vava.datastructure/graph/dfs"
-	"io.vava.datastructure/util"
+	"io.github.sowen.datastructure/graph"
+	"io.github.sowen.datastructure/graph/dfs"
+	"io.github.sowen.datastructure/util"
 )
 
 // Prime 算法实现最小生成树 - Minimum Tree Spanning

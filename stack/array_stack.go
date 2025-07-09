@@ -3,7 +3,7 @@ package stack
 import (
 	"fmt"
 
-	"io.vava.datastructure/list"
+	"io.github.sowen.datastructure/list"
 )
 
 type ArrayStack[E any] struct {

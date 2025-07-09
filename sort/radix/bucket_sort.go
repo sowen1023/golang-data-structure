@@ -1,7 +1,7 @@
 package radix
 
 import (
-	"io.vava.datastructure/sort"
+	"io.github.sowen.datastructure/sort"
 	"math"
 )
 

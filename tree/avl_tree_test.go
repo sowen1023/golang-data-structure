@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"io.vava.datastructure/util"
+	"io.github.sowen.datastructure/util"
 )
 
 func TestTreesPerformance(t *testing.T) {

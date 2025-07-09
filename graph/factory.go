@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"io.vava.datastructure/tree"
+	"io.github.sowen.datastructure/tree"
 )
 
 func FileAsGraph(file string) Graph {

@@ -2,8 +2,8 @@ package tree
 
 import (
 	"fmt"
-	"io.vava.datastructure/queue"
-	"io.vava.datastructure/stack"
+	"io.github.sowen.datastructure/queue"
+	"io.github.sowen.datastructure/stack"
 	"math"
 )
 

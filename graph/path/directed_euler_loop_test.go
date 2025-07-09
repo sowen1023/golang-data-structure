@@ -3,7 +3,7 @@ package path
 import (
 	"testing"
 
-	"io.vava.datastructure/graph"
+	"io.github.sowen.datastructure/graph"
 )
 
 func TestDirectedEulerLoop(t *testing.T) {

@@ -3,7 +3,7 @@ package tree
 import (
 	"fmt"
 
-	"io.vava.datastructure/types"
+	"io.github.sowen.datastructure/types"
 )
 
 type Merger[E types.Comparable] func(l, r E) E

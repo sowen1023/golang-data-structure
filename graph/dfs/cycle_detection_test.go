@@ -3,8 +3,8 @@ package dfs
 import (
 	"testing"
 
-	"io.vava.datastructure/graph"
-	"io.vava.datastructure/util"
+	"io.github.sowen.datastructure/graph"
+	"io.github.sowen.datastructure/util"
 )
 
 func TestCycleDetection(t *testing.T) {

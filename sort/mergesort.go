@@ -1,6 +1,6 @@
 package sort
 
-import "io.vava.datastructure/util"
+import "io.github.sowen.datastructure/util"
 
 // MergeSort 自顶向下归并排序
 func MergeSort(arr []int) {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"io.vava.datastructure/search"
+	"io.github.sowen.datastructure/search"
 )
 
 type Student struct {

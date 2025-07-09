@@ -3,8 +3,8 @@ package path
 import (
 	"math"
 
-	"io.vava.datastructure/graph"
-	"io.vava.datastructure/util"
+	"io.github.sowen.datastructure/graph"
+	"io.github.sowen.datastructure/util"
 )
 
 // Dijkstra 算法实现求解有权图单源最小路径

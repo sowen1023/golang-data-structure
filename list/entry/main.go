@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"io.vava.datastructure/list"
+	"io.github.sowen.datastructure/list"
 )
 
 const N int = 10

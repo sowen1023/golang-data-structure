@@ -1,3 +1,3 @@
-module io.vava.datastructure
+module io.github.sowen.datastructure
 
-go 1.19
+go 1.24.5

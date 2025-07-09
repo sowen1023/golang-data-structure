@@ -1,6 +1,6 @@
 package tree
 
-import "io.vava.datastructure/types"
+import "io.github.sowen.datastructure/types"
 
 // BST Binary search tree implementation.
 type BST[K types.Comparable, V types.Comparable] struct {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"io.vava.datastructure/stack"
+	"io.github.sowen.datastructure/stack"
 )
 
 func TestArrayStack_Push(t *testing.T) {

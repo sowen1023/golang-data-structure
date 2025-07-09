@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"io.vava.datastructure/tree"
+	"io.github.sowen.datastructure/tree"
 )
 
 // AdjMap Adjacency Tree Map

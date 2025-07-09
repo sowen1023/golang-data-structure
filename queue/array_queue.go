@@ -3,7 +3,7 @@ package queue
 import (
 	"fmt"
 
-	"io.vava.datastructure/list"
+	"io.github.sowen.datastructure/list"
 )
 
 type ArrayQueue[E any] struct {

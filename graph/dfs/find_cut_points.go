@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	"io.vava.datastructure/tree"
+	"io.github.sowen.datastructure/tree"
 
-	"io.vava.datastructure/graph"
+	"io.github.sowen.datastructure/graph"
 )
 
 type FindCutPoints struct {

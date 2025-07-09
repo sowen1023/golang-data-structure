@@ -1,8 +1,8 @@
 package path
 
 import (
-	"io.vava.datastructure/graph"
-	"io.vava.datastructure/util"
+	"io.github.sowen.datastructure/graph"
+	"io.github.sowen.datastructure/util"
 	"math"
 )
 

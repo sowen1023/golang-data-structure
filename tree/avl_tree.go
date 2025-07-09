@@ -3,7 +3,7 @@ package tree
 import (
 	"math"
 
-	"io.vava.datastructure/types"
+	"io.github.sowen.datastructure/types"
 )
 
 // AVLTree implementation

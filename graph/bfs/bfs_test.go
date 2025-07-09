@@ -2,8 +2,8 @@ package bfs
 
 import (
 	"fmt"
-	"io.vava.datastructure/graph"
-	"io.vava.datastructure/queue"
+	"io.github.sowen.datastructure/graph"
+	"io.github.sowen.datastructure/queue"
 	"testing"
 )
 

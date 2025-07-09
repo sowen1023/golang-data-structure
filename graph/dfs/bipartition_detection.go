@@ -1,6 +1,6 @@
 package dfs
 
-import "io.vava.datastructure/graph"
+import "io.github.sowen.datastructure/graph"
 
 type BipartitionDetection struct {
 	graph.Graph

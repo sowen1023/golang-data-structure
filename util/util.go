@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"io.vava.datastructure/types"
+	"io.github.sowen.datastructure/types"
 )
 
 func RandomIntSlice(length int) []int {

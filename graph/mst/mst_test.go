@@ -2,7 +2,7 @@ package mst
 
 import (
 	"fmt"
-	"io.vava.datastructure/graph"
+	"io.github.sowen.datastructure/graph"
 	"testing"
 )
 
