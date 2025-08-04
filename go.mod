@@ -1,3 +1,3 @@
 module io.github.sowen.datastructure
 
-go 1.24.5
+go 1.23.3
